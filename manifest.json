@@ -3,7 +3,7 @@
   "description": "Locally audits visible Discord member profiles for configurable moderation terms.",
   "authors": [
     {
-      "name": "YourName"
+      "name": "Scott"
     }
   ],
   "main": "index.js",
